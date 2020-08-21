@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Metaglaphite cooler",
+	"description": "Molten metaglaphite it too hot to use as coolant, it needs to be cooled itself before usage.",
+	"liquidCapacity": 50,
+	"outputLiquid": {"liquid": "metaglaphite", "amount": 24},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 160,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2,
+		"items": {
+			"items": [
+				{ "item": "titanium"}
+			]
+		},
+		"liquid": {
+			"liquid": "molten-metaglaphite", "amount": 0.15}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 120 },
+		{ "item": "graphite", "amount": 150 },
+		{ "item": "silicon", "amount": 130 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
