@@ -1,3 +1,3 @@
 # Metaglaphite
 Mod for mindustry.
-A simple mod adding new coolant - metaglaphite. I am planning to create new type of reactor working only on this fluid in nearest future.
+A mod adding new material - metaglaphite and it's variations. This substance can be used as extremely efficient coolant or as construction material.
