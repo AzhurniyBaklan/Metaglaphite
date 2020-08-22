@@ -4,5 +4,6 @@
 	"type": "material",
         "explosiveness": 0 ,
         "flammability": 0.05 ,
-        "radioactivity": 0.2
+        "radioactivity": 0.2,
+        "color":"#45ffda"
 }

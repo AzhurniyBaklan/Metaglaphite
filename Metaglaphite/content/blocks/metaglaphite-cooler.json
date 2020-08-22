@@ -17,7 +17,7 @@
 			]
 		},
 		"liquid": {
-			"liquid": "molten-metaglaphite", "amount": 0.15}
+			"liquid": "molten-metaglaphite", "amount": 0.075}
 	},
 	"requirements": [
 		{ "item": "titanium", "amount": 120 },

@@ -1,12 +1,12 @@
 {
 	"name": "Metaglaphite Wall",
-	"description": "A strong defensive block made out of Metaglaphite. Very nice protection.",
+	"description": "A strong defensive block made out of Metaglaphite. Decent protection from enemies.",
 	"type": "Wall",
-	"health": 860,
+	"health": 800,
 	"size": 1,
 	"requirements": [
 		{ "item": "hardened-metaglaphite", "amount": 6 }
 	],
 	"category": "defense",
-	"research": "thorium-wall"
+	"research": "titanium-wall"
 }
