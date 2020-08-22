@@ -13,7 +13,7 @@
         "liquidCapacity": 40,
         "powerProduction": 19,
         "itemDuration": 420,
-        "effect": "generate",
+        "updateEffect": "generate",
         "consumes": {
 		"items": {
 			"items": [
