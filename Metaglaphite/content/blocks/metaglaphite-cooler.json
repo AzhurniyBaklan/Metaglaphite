@@ -3,11 +3,11 @@
 	"name": "Metaglaphite cooler",
 	"description": "Molten metaglaphite it too hot to use as coolant, it needs to be cooled itself before usage.",
 	"liquidCapacity": 50,
-	"outputLiquid": {"liquid": "metaglaphite", "amount": 24},
+	"outputLiquid": {"liquid": "metaglaphite", "amount": 12},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
-	"craftTime": 160,
+	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 2,
@@ -17,7 +17,7 @@
 			]
 		},
 		"liquid": {
-			"liquid": "molten-metaglaphite", "amount": 0.075}
+			"liquid": "molten-metaglaphite", "amount": 0.1}
 	},
 	"requirements": [
 		{ "item": "titanium", "amount": 120 },
