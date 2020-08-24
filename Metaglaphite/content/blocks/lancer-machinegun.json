@@ -1,0 +1,29 @@
+{
+    "type": "PowerTurret",
+    "name": "Lancer machinegun",
+    "description": "Innacurate laser turret, shooting with insane speed",
+    "targetAir": false,
+    "targetGround": true,
+    "hasPower": true,
+	"powerUse": 3,
+    "shootType": "lancerLaser",
+    "health": 1800,
+    "size": 3,
+    "inaccuracy": 15,
+    "reload": 10,
+	"shots": 1,
+    "recoil": 4,
+    "shootCone": 360,
+    "rotateSpeed": 30,
+    "range": 104,
+    "shootEffect": "lightningShoot",
+    "requirements": [
+        { "item": "hardened-metaglaphite", "amount": 80},
+        { "item": "copper", "amount": 240 },
+        { "item": "silicon", "amount": 100},
+        { "item": "plastanium", "amount": 100}
+    ],
+    "category": "turret",
+    "shootSound": "spark",
+	"research": "lancer"
+}
