@@ -21,7 +21,7 @@
 	},
 	"requirements": [
 		{ "item": "titanium", "amount": 120 },
-		{ "item": "graphite", "amount": 150 },
+		{ "item": "hardened-metaglaphite", "amount": 50 },
 		{ "item": "silicon", "amount": 130 }
 	],
 	"category": "crafting",

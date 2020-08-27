@@ -16,7 +16,7 @@
 	"requirements": [
 		{ "item": "thorium", "amount": 50 },
 		{ "item": "titanium", "amount": 70 },
-		{ "item": "plastanium", "amount": 30 }
+		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "crafting",
 	"research": "metaglaphite-crucible",

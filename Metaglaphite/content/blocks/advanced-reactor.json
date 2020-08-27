@@ -7,7 +7,7 @@
         "explosionRadius": 30,
         "explosionDamage": 200,
         "coolantPower": 0.95,
-        "health": 250,
+        "health": 750,
         "outputsPower": true,
         "itemCapacity": 40,
         "liquidCapacity": 40,

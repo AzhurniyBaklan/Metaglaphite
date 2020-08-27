@@ -1,0 +1,40 @@
+{
+	"type": "ImpactReactor",
+	"name": "Compact reactor",
+	"description": "Pocket version of impact reactor. Uses metaglaphite as coolant.",
+	"size": 2,
+        "warmupSpeed": 0.01,
+        "plasmas": 1,
+        "explosionRadius": 5,
+        "explosionDamage": 200,
+        "health": 170,
+	"itemDuration": 120,
+        "hasItems": true,
+        "hasLiquids": true,
+        "liquidCapacity": 15,
+        "hasPower": true,
+        "consumesPower": true,
+        "outputsPower": true,
+        "powerProduction": 11,
+        "plasma1": ffd06b,	
+        "consumes": {
+                "power": 1,
+		"items": {
+			"items": [
+				{ "item": "blast-compound"}
+                                ],
+		},
+		"liquid": {
+			"liquid": "metaglaphite", "amount": 0.04 }
+                  },
+	"requirements": [
+		{ "item": "plastanium", "amount": 40 },
+		{ "item": "hardened-metaglaphite", "amount": 40 },
+		{ "item": "titanium", "amount": 50 },
+                { "item": "copper", "amount": 70},
+	],
+	"category": "power",
+	"research": "impact-reactor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
