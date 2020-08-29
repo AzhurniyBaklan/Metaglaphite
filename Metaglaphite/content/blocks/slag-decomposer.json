@@ -13,7 +13,7 @@
         "spinnerSpeed": 4,
 	"consumes": {
 		"power": 1.5,
-                "liquid": {"liquid":"slag", "amount": 0.3}
+                "liquid": {"liquid":"slag", "amount": 0.1}
                     },
         "results": [ 
                    graphite/1.5
