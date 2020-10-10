@@ -1,0 +1,30 @@
+{
+"name": "Thunder and Lightning",
+"description": "A giant close range energy turret. Fires a barrage of arc lightnings at enemy. ZAP!"
+"type": "PowerTurret"
+"coolantMultiplier": 4,
+"shootSound": laser",
+"recoil": 0,
+"inaccuracy": 0,
+"spread": 0,
+"restitution": 0,
+"shootCone": 7,
+"shots": 6,
+"reload": 0.4,
+"targetAir": true,
+"targetGround": true,
+"size": 4,
+"range": 70,
+"powerUse": 45,
+"shootType": "arc",
+"health": 3800,
+"rotatespeed": 7,
+"shootEffect": "lightningShoot",
+"requirements": [
+		{ "item": "hardened-metaglaphite", "amount": 300 },
+		{ "item": "plastanium", "amount": 150 },
+		{ "item": "surge-alloy", "amount": 220 },
+                { "item": "thorium", "amount": 120 }
+	],
+"category": "turret",
+"research": "lancer" }
