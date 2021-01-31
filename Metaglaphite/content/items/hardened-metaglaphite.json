@@ -1,9 +1,0 @@
-{
-	"name": "Hardened metaglaphite",
-	"description": "Hard radioactive material known for it's strong molecular bond. Extremely useful in compact and advanced electronics.",
-	"type": "material",
-        "explosiveness": 0 ,
-        "flammability": 0.05 ,
-        "radioactivity": 0.2,
-        "color":"#45ffda"
-}
