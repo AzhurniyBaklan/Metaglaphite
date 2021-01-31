@@ -1,0 +1,14 @@
+{
+	"name": "metaglaphite",
+	"description": "Metaglaphite can be used as better coolant than cryofluid.",
+	"temperature": 0.05,
+        "heatCapacity": 0.95,
+        "flammability": 0,
+        "booster": true,
+        "optional": true,
+        "update": false,
+        "explosiveness": 0,
+        "viscosity": 0.5,
+    "color": "#45ffda",
+    "barColor": "#45ffda"
+}

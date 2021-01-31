@@ -1,0 +1,12 @@
+{
+	"name": "molten-metaglaphite",
+	"description": "Insanely hot fluid.",
+	"temperature": 0.9,
+        "heatCapacity": 0.1,
+        "flammability": 0,
+        "update": false,
+        "explosiveness": 0,
+        "viscosity": 0.7,
+    "color": "#faf482",
+    "barColor": "#faf482"
+}

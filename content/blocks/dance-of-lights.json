@@ -1,0 +1,32 @@
+{
+    "type": "PowerTurret",
+    "name": "Dance of lights",
+    "description": "And in a flash of light, nothing remains",
+    "targetAir": true,
+    "targetGround": true,
+    "hasPower": true,
+	"powerUse": 90,
+    "shootType": "lancerLaser",
+    "health": 5000,
+    "size": 4,
+    "BuildVisibility": "sandboxOnly",
+    "inaccuracy": 30,
+    "reload": 400,
+	"shots": 200,
+    "recoil": 4,
+    "shootCone": 10,
+    "rotateSpeed": 30,
+    "shootshake": 10,
+    "range": 150,
+    "spread": 0,
+    "shootEffect": "lightningShoot",
+    "requirements": [
+        { "item": "hardened-metaglaphite", "amount": 2000},
+        { "item": "copper", "amount": 4000 },
+        { "item": "silicon", "amount": 4000},
+        { "item": "plastanium", "amount": 2000},
+        { "item": "surge-alloy", "amount": 700}
+    ],
+    "category": "turret",
+    "shootSound": "spark"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "CMD-I reproducer",
+	"description": "Uses energy to collect basic minerals from ground below it to quickly produce CMD-I.",
+	"type": "UnitFactory",
+	"unitType": "cmd-1",
+	"size": 2,
+	"produceTime": 250,
+	"maxSpawn": 4,
+	"consumes": {
+		"power": 1,
+		},
+	"category": "units",
+	"research": "dagger-factory",
+	"requirements": [
+		{ "item": "hardened-metaglaphite", "amount": 15 },
+		{ "item": "silicon", "amount": 30 },
+		{ "item": "lead", "amount": 40 },
+	]
+}

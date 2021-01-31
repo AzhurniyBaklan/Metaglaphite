@@ -1,0 +1,20 @@
+{
+	"name": "Tesla mine",
+	"description": "Advanced version of the shockmine. Can easily cause some destruction, but have a pretty big cooldown.",
+	"type": "ShockMine",
+	"health": 80,
+        "size": 1
+        "cooldown": 220,
+        "targetable": false,
+        "tileDamage": 10,
+        "damage": 30,
+        "length": 15,
+        "tendrils": 10,
+	"requirements": [
+		{"item": "hardened-metaglaphite", "amount": 25},
+                {"item": "silicon", "amount": 50},
+                {"item": "lead", "amount": 60},
+	],
+	"category": "effect",
+	"research": "shock-mine"
+}

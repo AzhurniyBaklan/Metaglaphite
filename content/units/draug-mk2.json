@@ -1,0 +1,27 @@
+{
+
+	"type": "MinerDrone",
+	"name": "Draug Mk.2",
+	"description": "An advanced draug prototype programmed to mine thorium and titanium.",
+	"flying": true,
+	"maxVelocity": 1.1,
+	"minePower": 4,
+	"speed": 0.4,
+	"drag": 0.15,
+	"mass": 1.1,
+	"rotatespeed": 0.3,
+	"hitsize": 9,
+	"health": 80,
+	"range": 40,
+	"engineSize": 2.1,
+	"engineOffset": 8,
+	"itemCapacity": 60,
+	"toMine": [
+		"titanium",
+		"thorium"
+                  ],
+	"weapon": {
+		"name": "you have incurred my wrath. prepare to die.",
+		"bullet": "lancerLaser"
+	}
+}

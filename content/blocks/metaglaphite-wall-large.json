@@ -1,0 +1,12 @@
+{
+	"name": "Large metaglaphite wall",
+	"description": "A strong defensive block made out of metaglaphite. Decent protection from enemies. Spans multiple tiles.",
+	"type": "Wall",
+	"health": 3200,
+	"size": 2,
+	"requirements": [
+		{ "item": "hardened-metaglaphite", "amount": 24 }
+	],
+	"category": "defense",
+	"research": "metaglaphite-wall"
+}

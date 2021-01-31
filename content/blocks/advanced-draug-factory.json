@@ -1,0 +1,50 @@
+{
+
+	"name": "Draug Mk.2 proto-assembler",
+
+	"description": "Produces advanced mining drones from metaglaphite and silicon. They are programmed to mine only thorium and titanium.",
+
+	"type": "UnitFactory",
+
+	"unitType": "draug-mk2",
+
+	"size": 2,
+
+	"produceTime": 3000,
+
+	"maxSpawn": 1,
+
+	"consumes": {
+
+		"power": 3,
+
+		"items": {
+
+			"items": [
+
+				{"item": "hardened-metaglaphite", "amount": 20}
+                                {"item": "silicon", "amount": 30}
+
+			]
+
+		}
+
+	},
+
+	"category": "units",
+
+	"research": "draug-factory",
+
+	"requirements": [
+
+		{ "item": "hardened-metaglaphite", "amount": 80 },
+
+		{ "item": "silicon", "amount": 160 },
+
+		{ "item": "plastanium", "amount": 70 },
+
+		{ "item": "thorium", "amount": 90 }
+
+	]
+
+}
